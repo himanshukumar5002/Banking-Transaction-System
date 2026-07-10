@@ -1,4 +1,5 @@
 PROJECT NAME -  Banking Transaction System
+Description - A secure backend API for a Banking Transaction System built using Node.js, Express, and MongoDB. It supports user authentication, email verification, and secure transaction management.
 
 # Features
 
@@ -20,7 +21,7 @@ PROJECT NAME -  Banking Transaction System
 - bcrypt
 - Nodemailer
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Banking-Transaction-System/
@@ -33,4 +34,30 @@ Banking-Transaction-System/
 │── server.js
 │── package.json
 │── .env
+```
+
+##  Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Banking-Transaction-System.git
+```
+
+Move into project
+
+```bash
+cd Banking-Transaction-System
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the server
+
+```bash
+npm run dev
 ```
