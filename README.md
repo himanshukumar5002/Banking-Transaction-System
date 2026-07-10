@@ -1,5 +1,5 @@
 PROJECT NAME -  Banking Transaction System
-Description - A secure backend API for a Banking Transaction System built using Node.js, Express, and MongoDB. It supports user authentication, email verification, and secure transaction management.
+# Description - A secure backend API for a Banking Transaction System built using Node.js, Express, and MongoDB. It supports user authentication, email verification, and secure transaction management.
 
 # Features
 
